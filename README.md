@@ -164,6 +164,7 @@ person_claassify_new/tf2_EfficientNetB0_age.ipynb
 
 ———————————————————————————————————————
 
+# 环境配置相关
 jupyter notebook，可以pip安装，也可以用Anaconda，一般用Anaconda 
 Anaconda教程
 https://docs.continuum.io/
